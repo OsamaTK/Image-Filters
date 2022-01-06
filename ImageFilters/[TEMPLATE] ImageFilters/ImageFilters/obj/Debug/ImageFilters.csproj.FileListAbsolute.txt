@@ -1,0 +1,36 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\acer\Desktop\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+E:\Osama\Studies\Algorithm\imageproc\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+E:\Osama\Studies\Algorithm\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+E:\Osama\Studies\Algorithm\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+E:\Osama\Studies\Algorithm\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
